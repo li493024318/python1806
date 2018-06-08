@@ -1,15 +1,5 @@
 print("hello")
 print("hello")
 print("hello")
-print("hello")
-print("123")
+print("lall")
 
-print("123")
-print("123")
-print("123")
-print("this is a cilent")
-print("this is a cilent")
-print("this is a cilent")
-print("this is a cilent")
-
-print("this is a cilen1t")
